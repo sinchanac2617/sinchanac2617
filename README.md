@@ -1,23 +1,23 @@
-<!-- 🌈 Header Banner -->
+<!-- 🌈 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=00C9A7,92FE9D&height=180&section=header&text=Hi%20👋,%20I'm%20Sinchana!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF,00D1FF&height=200&section=header&text=Hi%20👋,%20I'm%20Sinchana!&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🚀 Passionate Innovator</h3>
+<h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Explorer | 🚀 Passionate Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Crafting+Scalable+Web+Apps;Automating+Cloud+Deployments;Turning+Ideas+Into+Reality;Lifelong+Learner+🌱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Innovative+Developer+Building+Impactful+Solutions;Blending+Code,+Creativity,+and+Cloud+☁️;Turning+Ideas+into+Interactive+Experiences+💡;Lifelong+Learner+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-🎓 **BE in Computer Science** — Government Engineering College, Chamarajanagar (VTU)  
-💻 Skilled in building **end-to-end web applications** using modern Java Full Stack technologies.  
-⚡ Passionate about **Cloud, DevOps, and Real-Time Systems** with an eye for performance & design.  
-🎯 Always eager to explore **cutting-edge tools** and develop scalable, automated solutions.  
-📫 **Email:** [shivarajushivu230@gmail.com](mailto:shivarajushivu230@gmail.com)  
+🎓 **BE in Electronics & Communication** — *Sapthagiri College of Engineering, Bengaluru (VTU)*  
+💡 A tech enthusiast who loves designing seamless digital experiences and automating workflows for real-world impact.  
+🧩 I thrive at the intersection of **software engineering, DevOps, and cloud innovation**, with a deep interest in scalable architectures.  
+🚀 My focus is on crafting solutions that are efficient, intuitive, and built to perform at scale.  
+📫 **Email:** [sinchanac2617@gmail.com](mailto:sinchanac2617@gmail.com)  
 🌐 **Portfolio:** [sinchana-codes-showcase.lovable.app](https://sinchana-codes-showcase.lovable.app/)
 
 ---
@@ -54,36 +54,36 @@
 ## 🚀 Featured Projects
 
 ### 🌐 [Sinchana Codes Showcase](https://sinchana-codes-showcase.lovable.app/)
-> My live portfolio showcasing projects, technical blogs, and hands-on work.  
-**Highlights:** Modern UI • Cloud Hosted • Integrated Code Demos • Responsive Design  
+> A modern portfolio displaying my web development, DevOps, and cloud projects.  
+**Highlights:** Dynamic Design • Real-Time Deployments • Cloud Integration • Interactive Interface  
 
 ---
 
 ### 💸 [Personal Finance Management System](https://github.com/shivu12339/personal-finance-management)
-> End-to-end Java Full Stack app to track income, expenses, and savings goals.  
+> Java Full Stack app to manage income, expenses, and financial goals.  
 **Tech Stack:** Spring Boot, React, MySQL  
-**Key Features:** Secure JWT Auth, Analytics Dashboard, Responsive Design  
+**Features:** JWT Auth • Analytics Dashboard • Secure REST APIs  
 
 ---
 
 ### 📝 [ToDo List App](https://github.com/shivu12339/ToDoListApp)
-> A clean and interactive task management web app.  
+> A beautifully simple web app for daily task management.  
 **Tech Stack:** HTML, CSS, JavaScript  
-**Features:** Add/Delete Tasks • Persistent Data • Minimalist Design  
+**Features:** Add/Delete Tasks • Persistent Data • Intuitive Interface  
 
 ---
 
 ### 📚 [Online Book Store](https://github.com/shivu12339/Online-Book-Store)
-> Backend-driven eCommerce system to manage books & orders.  
+> A complete backend system for book inventory and orders.  
 **Tech Stack:** Java, JSP, MySQL  
-**Features:** Admin Portal • Cart & Checkout • Secure Transactions  
+**Features:** Admin Management • Order Tracking • Responsive UI  
 
 ---
 
 ## 🧾 Certifications
 
 🎓 Java, DBMS, OOPS, NoSQL – *Infosys Springboard*  
-🎯 Agile, Scrum, DSA using Java – *Infosys Springboard*  
+⚙️ Agile, Scrum, DSA using Java – *Infosys Springboard*  
 🗣️ Communication & Presentation Skills – *TCS iON Career Edge*  
 
 ---
@@ -91,8 +91,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivu12339&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu12339&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shivu12339&show_icons=true&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivu12339&theme=midnight-purple" />
 </p>
 
 <p align="center">
@@ -104,20 +104,20 @@
 ## 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivarajum1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shivu12339"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:shivarajushivu230@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://sinchana-codes-showcase.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shivarajum1/"><img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shivu12339"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:sinchanac2617@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://sinchana-codes-showcase.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6A00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
 
 ## ✨ Quote to Live By
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> 💡 *"The future belongs to those who design, develop, and deploy their dreams."*  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A00FF,00D1FF&height=150&section=footer"/>
 </p>
