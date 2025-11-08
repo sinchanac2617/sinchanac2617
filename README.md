@@ -3,15 +3,15 @@
 
 <!-- 🌈 Animated Typing Banner (sequential colorful transitions with emojis) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;🌱+Spring+Boot+%26+Web+Technologies;🗄️+MySQL+and+AWS;⚙️+DevOps+%26+☁️+Cloud+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;🌱+Spring+Boot+%26+Web+Technologies;🗄️+MySQL+and+AWS;⚙️+DevOps+Practitioner+%26+☁️+Cloud+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Java Full Stack Developer** passionate about designing scalable, efficient, and automation-driven applications 🚀.  
-My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, building reliable systems that bridge development and deployment ⚙️.
+I’m a **Java Full Stack Developer** passionate about building scalable, efficient, and automation-driven applications 🚀.  
+My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, creating reliable systems that bridge development and deployment ⚙️.
 
 - 🔭 **Recent Projects**
   - **Spring Boot + MySQL Dockerized App** — Created a multi-container setup (`app` + `db`) using **🐳 Docker Compose** with persistent storage and environment-based configuration.  
