@@ -3,7 +3,7 @@
 
 <!-- 🌈 Animated Typing Banner (sequential colorful transitions with emojis) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;🌱+Spring+Boot+%26+Web+Technologies;🗄️+MySQL+and+AWS;⚙️+DevOps+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;🌱+Spring+Boot+%26+Web+Technologies;🗄️+MySQL+and+AWS;⚙️+DevOps+%26+☁️+Cloud+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
