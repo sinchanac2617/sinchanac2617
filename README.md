@@ -1,22 +1,21 @@
 <!-- 🌸 Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Sinchana C</span></h1>
 
-<!-- 🌈 Animated Typing Banner (sequential colorful transitions) -->
+<!-- 🌈 Animated Typing Banner (sequential colorful transitions with emojis) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;⚙️+DevOps+Engineer+%7C+Automation+Specialist;☁️+Cloud-Native+Application+Builder" alt="Typing SVG" 
-  style="border-radius: 10px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;🌱+Spring+Boot+%26+Web+Technologies;🗄️+MySQL+and+AWS;⚙️+DevOps+Tools" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Java Full Stack Developer** passionate about creating scalable, cloud-native, and automation-driven applications 🚀.  
-My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, bridging development and operations to deliver smooth, efficient workflows ⚙️.
+I’m a **Java Full Stack Developer** passionate about designing scalable, efficient, and automation-driven applications 🚀.  
+My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, building reliable systems that bridge development and deployment ⚙️.
 
 - 🔭 **Recent Projects**
-  - **Spring Boot + MySQL Dockerized App** — Multi-container setup (`app` + `db`) using **🐳 Docker Compose** with persistent volumes and environment-driven configuration.  
-  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a production-ready web app on **AWS EC2** using **Apache Tomcat** and **Maven**.
+  - **Spring Boot + MySQL Dockerized App** — Created a multi-container setup (`app` + `db`) using **🐳 Docker Compose** with persistent storage and environment-based configuration.  
+  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a production-ready Java web app on **AWS EC2** using **Apache Tomcat** and **Maven**.
 
 - ☁️ **Cloud & DevOps Stack:** AWS | Jenkins | Docker | Git/GitHub | Apache Tomcat | Maven  
 - 💬 Ask me about: **Java | Spring Boot | REST APIs | CI/CD | Docker | MySQL | Cloud Deployments**  
@@ -52,8 +51,8 @@ My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, bridgin
 ### 🧩 1) Dockerized Spring Boot App — **Dockerfile + Docker Compose**
 - **Stack:** Spring Boot, MySQL, Docker, Docker Compose  
 - **Highlights:**  
-  - Multi-container setup (`app` + `db`) with persistent storage, environment configs, and health checks.  
-  - Streamlined orchestration for development and deployment using Docker Compose.  
+  - Multi-container setup (`app` + `db`) with persistent storage and health checks.  
+  - Automated deployment using Docker Compose and environment-driven config.  
 - **Repo:** _add link here_  
 - **Run locally:**
   ```bash
