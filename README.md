@@ -1,21 +1,33 @@
 <!-- 🌸 Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff69b4">Sinchana C</span></h1>
 
-<!-- 🌈 Animated Gradient Typing Banner -->
+<!-- 🌈 Animated Typing Banner (different color for each line) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF69B4,F7B42C,32CD32,1E90FF,9B59B6&center=true&vCenter=true&width=750&lines=💻+Java+Full+Stack+Developer;⚙️+DevOps+Engineer+%7C+Automation+Enthusiast;☁️+Cloud-Native+Application+Builder;🚀+Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F77DF9&center=true&vCenter=true&width=750&lines=💻+Java+Full+Stack+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=⚙️+DevOps+Engineer+%7C+Automation+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=750&lines=☁️+Cloud-Native+Application+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=🚀+Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a **Java Full Stack Developer** who enjoys building **scalable**, **cloud-native**, and **automation-driven** applications 🚀.  
-My work focuses on merging **development and DevOps** — automating builds, deployments, and cloud workflows to deliver efficient solutions ⚙️.
+I’m a **Java Full Stack Developer** passionate about building scalable, cloud-native, and automation-driven applications 🚀.  
+My expertise lies in **Spring Boot**, **Docker**, and **Jenkins CI/CD**, bridging development and operations for streamlined deployments ⚙️.
 
 - 🔭 **Recent Projects**
-  - **Spring Boot + MySQL Dockerized App** — Multi-container (`app` + `db`) setup using **🐳 Docker Compose**, with persistent volumes and environment variables.  
-  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a full-stack application on **AWS EC2** using **Apache Tomcat**, packaged with **Maven**.
+  - **Spring Boot + MySQL Dockerized App** — Built a multi-container setup (`app` + `db`) using **🐳 Docker Compose** with persistent storage and environment-driven configuration.  
+  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a production-grade app on **AWS EC2** using **Apache Tomcat** and **Maven**.
 
 - ☁️ **Cloud & DevOps Stack:** AWS | Jenkins | Docker | Git/GitHub | Apache Tomcat | Maven  
 - 💬 Ask me about: **Java | Spring Boot | REST APIs | CI/CD | Docker | MySQL | Cloud Deployments**  
@@ -51,8 +63,8 @@ My work focuses on merging **development and DevOps** — automating builds, dep
 ### 🧩 1) Dockerized Spring Boot App — **Dockerfile + Docker Compose**
 - **Stack:** Spring Boot, MySQL, Docker, Docker Compose  
 - **Highlights:**  
-  - Multi-container setup with persistent volumes and environment-driven configurations.  
-  - Optimized builds using Docker caching and networking for seamless communication.  
+  - Multi-container setup (`app` + `db`) with persistent storage and environment variables.  
+  - Health checks and dependency ordering for reliable startup.  
 - **Repo:** _add link here_  
 - **Run locally:**
   ```bash
