@@ -1,21 +1,9 @@
 <!-- 🌸 Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff69b4">Sinchana C</span></h1>
 
-<!-- 🌈 Animated Typing Banner (different color for each line) -->
+<!-- 🌈 Animated Typing Banner (Sequential colorful transition) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F77DF9&center=true&vCenter=true&width=750&lines=💻+Java+Full+Stack+Developer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=750&lines=⚙️+DevOps+Engineer+%7C+Automation+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=750&lines=☁️+Cloud-Native+Application+Builder" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=750&lines=🚀+Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=F77DF9&center=true&vCenter=true&width=800&lines=💻+Java+Full+Stack+Developer;⚙️+DevOps+Engineer+%7C+Automation+Enthusiast;☁️+Cloud-Native+Application+Builder;🚀+Continuous+Learner+%26+Problem+Solver" alt="Typing SVG" />
 </p>
 
 ---
